@@ -1,5 +1,4 @@
-import unittest  
-from src.core import ilahi_optimizasyon  
+from ..src.core import ilahi_optimizasyon
 
 class TestLambdaCore(unittest.TestCase):  
     def test_ilahi_optimizasyon(self):  
